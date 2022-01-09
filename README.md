@@ -1,0 +1,1 @@
+# windowSpeech_vue
